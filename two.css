@@ -226,8 +226,10 @@
 
 @media screen and (max-width: 768px) {
   .about2 {
-    margin: 0 auto;
-    background-image: none; }
+    margin: 0 auto; }
+
+  .bg span:nth-child(even) {
+    display: none; }
 
   #contents, #contents5 {
     display: flex;
