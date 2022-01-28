@@ -228,9 +228,6 @@
   .bg span {
     display: none; }
 
-  .bg span:nth-child(even) {
-    display: none; }
-
   .about2 {
     margin: 0 auto;
     background-image: none; }
